@@ -1,0 +1,6 @@
+{
+  "versionCode": 26,
+  "versionName": "0.7.0",
+  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.7.0/EdRoid-0.7.0.apk",
+  "notes": "New: Controls tab in the side menu. Make your own on-screen button layouts (add buttons, pick the key, drag them into place, resize), then choose one per game in Library \u22ee \u203a Controls. Works for web and Windows games.\nNew: EdRoid tells you when an update is out (side menu \u203a Check for updates)."
+}
