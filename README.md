@@ -6,7 +6,7 @@ Play PC games on your Android phone. Copy a game folder to the phone, add it in 
 ### [⬇ Download EdRoid 0.7.2 (167 MB)](https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.7.2/EdRoid-0.7.2.apk)
 <!-- /download -->
 
-Older versions and what changed: [all releases](https://github.com/Ender909v1/EdRoid-releases/releases)
+What's new in this version: [release notes](https://github.com/Ender909v1/EdRoid-releases/releases/latest)
 
 ## What it plays
 
@@ -49,23 +49,31 @@ If the game folder has several `.exe` files, EdRoid asks which one starts the ga
 - Drag: hold the click and move
 - Hold: right click
 - Two fingers: right click and scroll
-- Back button: the game menu (keyboard, stretch window, touch mode, on-screen buttons, exit)
+- Back button: the game menu (keyboard, stretch window, touch mode, mouse mode, on-screen buttons, exit)
 
 **On-screen buttons**
 - Menu › **Controls**. Default is built in. Tap **+ New layout** to make your own (it starts like Default), then **Edit** it: drag buttons to move them, add buttons, change their key, shape or size. Tap **Equip** on the layout you want.
 - Different buttons for one game: Library › **⋮** › **Controls**.
-- The **⚙ gear** over a game: tap it to show or hide the buttons, drag it anywhere, long-press it for the game menu (Windows games) or to exit (web games).
+- Buttons can press any key, the mouse buttons or wheel, a D-pad or WASD pad, or be a stick: **Mouse** moves the pointer, **Drag** and **R-Drag** hold the left or right button while moving (turning the camera in 3D games).
+- The **⚙ gear** over a game: tap it to show or hide the buttons, drag it anywhere. Hold it for a menu: **Edit buttons** right over the game, **Choose buttons…** for this game, **Screen size & position** (Windows games), and the game menu or exit.
+
+**Screen (Windows games)**
+- Gear › **Screen size & position**: make the picture bigger or smaller (−/+ or pinch), move it (arrows or drag), **Stretch** it to the whole screen, or **Centre window** when a game opens partly off the screen. Saved for each game.
+- Library › **⋮** › **Screen size**: the Windows screen size the game starts with. **Fit my phone** has your phone's shape, so games fill the screen without black bars. *Run in a window* starts Unity games in a window instead of full screen.
 
 **Library ⋮ menu**
 - **Start file**: which `.exe` starts the game
 - **Speed**: from Safe to Fastest, if a game crashes or runs slowly
+- **Screen size**: the Windows screen size, and window or full screen (Windows games)
+- **Controls**: the on-screen buttons for this game
 - **Open saves folder** / **Open game folder**: look at, back up or replace saves
 - **Add to home screen**: launch the game straight from your home screen
 
 ## Tips
 
 - **The game closes when you switch apps:** in Android Settings › Apps › EdRoid › Battery, allow background activity. On OPPO / realme / OnePlus (ColorOS) it's called *Allow background activity*.
-- **The game window is small or cut off:** choose 1280×720 in the game's own settings, or use the back-button menu › *Stretch game window*.
+- **The game window is small or cut off:** choose 1280×720 in the game's own settings, use the back-button menu › *Stretch game window*, or hold the gear › *Screen size & position*.
+- **Taps do nothing in a Windows game:** try the back-button menu › *Mouse: Windows input*.
 - **It's laggy:** close other apps, or try Library ⋮ › Speed.
 - **The game closed by itself:** when you go back to EdRoid it shows what happened, with a **Copy** button. Paste that text when you ask for help in [Issues](https://github.com/Ender909v1/EdRoid-releases/issues).
 
