@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.7.2",
-  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.7.2/EdRoid-0.7.2.apk",
-  "notes": "Gear button is back, in web and Windows games: tap it to show or hide the on-screen buttons, drag it anywhere on the screen (EdRoid remembers where). Long-press: exit (web games) or the game menu (Windows games).",
-  "size": 174691917
+  "versionCode": 38,
+  "versionName": "0.8.0",
+  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.8.0/EdRoid-0.8.0.apk",
+  "notes": "New in 0.8.0:\n- Unity 6 games: taps and clicks work (they ignored every click before).\n- Windows games show their text: games that ask for Windows fonts (Arial, Segoe UI, Yu Gothic, MS Gothic, Microsoft YaHei...) now find them.\n- RPG Maker: taps work in games with their own menus, PC-style save screens work, no more \"Animation not found\" in some options screens, and games no longer freeze.\n- Hold the gear in a game to edit your buttons right there, choose other buttons for the game, or adjust the screen.\n- New buttons: Mouse, Drag and R-Drag sticks, and a WASD pad.\n- Screen size & position: zoom, move or stretch the picture; Fit my phone screen size; Run in a window for Unity games.\n- Taps hold the click a little longer, so more games notice them.",
+  "size": 174744042
 }
