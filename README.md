@@ -3,7 +3,7 @@
 Play PC games on your Android phone. Copy a game folder to the phone, add it in EdRoid, tap **Launch**.
 
 <!-- download -->
-### [⬇ Download EdRoid 0.7.2 (167 MB)](https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.7.2/EdRoid-0.7.2.apk)
+### [⬇ Download EdRoid 0.8.0 (167 MB)](https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.8.0/EdRoid-0.8.0.apk)
 <!-- /download -->
 
 What's new in this version: [release notes](https://github.com/Ender909v1/EdRoid-releases/releases/latest)
