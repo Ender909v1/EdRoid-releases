@@ -37,7 +37,7 @@ Japanese, Chinese and Korean games work too: EdRoid sets the language and font b
 1. Copy the whole game folder to your phone. The **Download** folder is best.
 2. In EdRoid, open the menu (top right) › **Export game** › **Choose game folder**, and pick that folder. Allow access to files if asked.
 3. Check the report, then tap **Export to Android**.
-4. The game is now in **Library**. Tap **Launch**.
+4. Give the game a name you'll recognize (or keep the one EdRoid found). It's now in **Library**: tap **Launch**.
 
 The first Windows game sets up the Windows engine. That takes 1–3 minutes and happens once.
 If the game folder has several `.exe` files, EdRoid asks which one starts the game.
@@ -50,11 +50,12 @@ If the game folder has several `.exe` files, EdRoid asks which one starts the ga
 - Hold: right click
 - Two fingers: right click and scroll
 - Back button: the game menu (keyboard, stretch window, touch mode, mouse mode, on-screen buttons, exit)
+- Typing (names, chat): back-button menu › **Keyboard**, hold the gear › **Keyboard**, or a Keyboard button
 
 **On-screen buttons**
 - Menu › **Controls**. Default is built in. Tap **+ New layout** to make your own (it starts like Default), then **Edit** it: drag buttons to move them, add buttons, change their key, shape or size. Tap **Equip** on the layout you want.
 - Different buttons for one game: Library › **⋮** › **Controls**.
-- Buttons can press any key, the mouse buttons or wheel, a D-pad or WASD pad, or be a stick: **Mouse** moves the pointer, **Drag** and **R-Drag** hold the left or right button while moving (turning the camera in 3D games).
+- Buttons can press any key, the mouse buttons or wheel, a D-pad or WASD pad, open the keyboard, or be a stick: **Mouse** moves the pointer, **Drag** and **R-Drag** hold the left or right button while moving (turning the camera in 3D games). How fast sticks move: **Mouse stick speed** in the Controls tab, or hold the gear › **Stick speed**.
 - The **⚙ gear** over a game: tap it to show or hide the buttons, drag it anywhere. Hold it for a menu: **Edit buttons** right over the game, **Choose buttons…** for this game, **Screen size & position** (Windows games), and the game menu or exit.
 
 **Screen (Windows games)**
@@ -63,7 +64,8 @@ If the game folder has several `.exe` files, EdRoid asks which one starts the ga
 
 **Library ⋮ menu**
 - **Start file**: which `.exe` starts the game
-- **Speed**: from Safe to Fastest, if a game crashes or runs slowly
+- **Rename**: the name EdRoid shows for the game
+- **Speed**: from Safe to Fastest, if a game crashes or runs slowly. *Faster loading* (on) keeps the translated game code, so the second start of a game is quicker.
 - **Screen size**: the Windows screen size, and window or full screen (Windows games)
 - **Controls**: the on-screen buttons for this game
 - **Open saves folder** / **Open game folder**: look at, back up or replace saves
@@ -74,7 +76,8 @@ If the game folder has several `.exe` files, EdRoid asks which one starts the ga
 - **The game closes when you switch apps:** in Android Settings › Apps › EdRoid › Battery, allow background activity. On OPPO / realme / OnePlus (ColorOS) it's called *Allow background activity*.
 - **The game window is small or cut off:** choose 1280×720 in the game's own settings, use the back-button menu › *Stretch game window*, or hold the gear › *Screen size & position*.
 - **Taps do nothing in a Windows game:** try the back-button menu › *Mouse: Windows input*.
-- **It's laggy:** close other apps, or try Library ⋮ › Speed.
+- **It's laggy:** add EdRoid to your phone's game mode (OPPO/realme/OnePlus: the **Games** app / Game Space) with high performance, turn Battery Saver off, then try Library ⋮ › **Screen size** › *Fit my phone, faster* and Library ⋮ › **Speed** › *Fast*. Lower the game's own graphics settings (shadows, quality). Close other apps.
+- **Loading is slow:** the first start of a game is the slowest. Leave a game from its own menu or the back-button menu › *Exit* (wait for "Closing the game…") so the next start can be faster.
 - **The game closed by itself:** when you go back to EdRoid it shows what happened, with a **Copy** button. Paste that text when you ask for help in [Issues](https://github.com/Ender909v1/EdRoid-releases/issues).
 
 ## Third-party software
