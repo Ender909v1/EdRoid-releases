@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.8.4",
-  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.8.4/EdRoid-0.8.4.apk",
-  "notes": "New in 0.8.4:\n- Faster loading: the second start of a game reuses the code translated the first time. Leave games from their own menu or Exit and wait for \"Closing the game\u2026\".\n- Mouse sticks move like a joystick, with a speed setting (Controls tab, or hold the gear \u203a Stick speed).\n- The phone's keyboard types into Windows games (back-button menu \u203a Keyboard, gear \u203a Keyboard, or a Keyboard button).\n- Rename games in the Library; EdRoid asks for a name when you add one.\n- Unity games run faster (Balanced speed instead of Safe), and new smaller screen sizes give more FPS: Library \u22ee \u203a Screen size \u203a Fit my phone, faster.\n- EdRoid tells Android it's a game, so the phone's game mode (e.g. ColorOS Game Space) can give it full speed.",
-  "size": 174750950
+  "versionCode": 51,
+  "versionName": "0.9.0",
+  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.9.0/EdRoid-0.9.0.apk",
+  "notes": "New in 0.9.0:\n- Translate to English: Library \u22ee \u203a Translate to English, or hold the gear in game \u203a Translate to English\u2026.\n- RPG Maker MV/MZ games: EdRoid translates the dialogue, menus and items on the phone with Google's offline translator (downloads once, about 30 MB). Switch back to the original at any time; the game folder isn't changed.\n- Unity games (Mono): EdRoid adds a translator mod to the game folder, used from the next start; text turns English a moment after it appears. Unity IL2CPP games can't be translated yet.\n- It's machine translation, and text drawn into pictures stays as it is.\n- Fixed a crash that sometimes closed EdRoid as a Windows game's screen opened.",
+  "size": 183677304
 }
