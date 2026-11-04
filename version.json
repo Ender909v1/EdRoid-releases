@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "0.9.1",
-  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.9.1/EdRoid-0.9.1.apk",
-  "notes": "New in 0.9.1:\n- Fixed: Unity 6 games that come with a BepInEx mod (for example an English patch) went back to their original language from the second start. The mod loads every time again.\n\nFrom 0.9.0:\n- Translate to English: Library \u22ee \u203a Translate to English, or hold the gear in game \u203a Translate to English\u2026.\n- RPG Maker MV/MZ games are translated on the phone with Google's offline translator (downloads once, about 30 MB); switch back to the original at any time.\n- Unity games (Mono) get a translator mod in the game folder, used from the next start. Unity IL2CPP games can't be translated yet.\n- It's machine translation, and text drawn into pictures stays as it is.",
-  "size": 183677828
+  "versionCode": 54,
+  "versionName": "0.9.3",
+  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.9.3/EdRoid-0.9.3.apk",
+  "notes": "New in 0.9.3:\n- Godot 4 games now draw with Vulkan. Games that played sound but showed no picture should work now.\n- Frame rate limit: Windows games stop at 60 fps by default, so the phone stays cooler and the battery lasts longer. To change it for a game, hold the gear in game \u203a Frame rate limit\u2026 (30, 45, 60, 90, 120 or no limit). It applies at once.\n- The phone keyboard's Backspace and Enter are now held for a moment, for game text boxes that missed them.",
+  "size": 183680676
 }
