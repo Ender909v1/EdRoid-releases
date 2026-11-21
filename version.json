@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "0.9.3",
-  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.9.3/EdRoid-0.9.3.apk",
-  "notes": "New in 0.9.3:\n- Godot 4 games now draw with Vulkan. Games that played sound but showed no picture should work now.\n- Frame rate limit: Windows games stop at 60 fps by default, so the phone stays cooler and the battery lasts longer. To change it for a game, hold the gear in game \u203a Frame rate limit\u2026 (30, 45, 60, 90, 120 or no limit). It applies at once.\n- The phone keyboard's Backspace and Enter are now held for a moment, for game text boxes that missed them.",
-  "size": 183680676
+  "versionCode": 60,
+  "versionName": "0.9.9",
+  "url": "https://github.com/Ender909v1/EdRoid-releases/releases/download/v0.9.9/EdRoid-0.9.9.apk",
+  "notes": "New in 0.9.9:\n- Patches and setup files: Library \u22ee \u203a Run a file\u2026 runs a game's .bat, .exe, .msi, .reg or PowerShell file once in Windows, or any file you pick on the phone. The game folder (\u22ee \u203a Open game folder) has Run in Windows on these files too. EdRoid tells you afterwards whether it worked.\n- Automatic setup: when you press Play, EdRoid offers to run a setup step the game needs first, such as an English patch's \"Apply English patch.bat\" that its readme says to run once.\n- Setup files that need PowerShell work now: EdRoid downloads Microsoft PowerShell once (about 110 MB) the first time one needs it.\n- Windows games keep running when you leave them (hold the gear \u203a Keep running when I leave) and have their own card in Recents. Exit game goes back to the Library.\n- One menu for everything: hold the gear or press Back. Make new on-screen buttons or copy them right from the game.\n- Games with a choose-a-file window (DLC, mods): hold the gear \u203a Choose a file from the phone\u2026 and EdRoid fills it in.\n- File manager: copy or move files, add whole folders from the phone, and go to the Windows C: drive or Download.\n- Games start faster, and the Library keeps your place.",
+  "size": 183716816
 }
